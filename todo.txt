@@ -1,0 +1,6 @@
+Todo:
+- Try ghub init here
+- Make a small edit and ghub push
+- Create a branch with ghub branch <branch name>
+- Switch branches with ghub branches
+- Merge a branch back into main with ghub merge

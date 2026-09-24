@@ -1,0 +1,13 @@
+Practice notes.
+
+Use this folder to try out ghub commands:
+- ghub init
+- ghub push
+- ghub pull
+- ghub branch <branch name>
+- ghub branches
+- ghub merge
+- ghub delete branch
+- ghub add collab
+- ghub remove collab
+- ghub delete
