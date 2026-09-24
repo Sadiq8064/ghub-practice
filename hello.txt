@@ -1,3 +1,4 @@
 hello world
 commit test 1
 clean push test
+edited in the untracked clone
