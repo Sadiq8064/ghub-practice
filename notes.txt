@@ -11,4 +11,3 @@ Use this folder to try out ghub commands:
 - ghub add collab
 - ghub remove collab
 - ghub delete
-this should auto-appear in the clone, never touched the clone folder
